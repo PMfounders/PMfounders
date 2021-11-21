@@ -1,2 +1,2 @@
-- 👋 Hi, Our team is called @PMfounders
+- 👋 Hi, Our team is called PMfounders
 - 📫 You can write to us on our mail Pmfounders@gmail.com
